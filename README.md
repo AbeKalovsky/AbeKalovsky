@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Java**
 
+- 🌱 I would like to learn **Python**
+
 - 💬 Ask me about **Magic the Gathering, Studio Ghibli or the NFL**
 
 - 📫 How to reach me **abrahamkalovsky@gmail.com**
