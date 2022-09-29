@@ -1,4 +1,4 @@
-                                             A Previous theatre nerd turned Backend Developer
+ A Previous theatre nerd turned Backend Developer
                                                   
 🌱 I’m currently learning Java, AWS DynamoDB,  
 
