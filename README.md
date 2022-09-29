@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">A passionate frontend developer from South Dakota</h3>
-<img src= https://wallpaperaccess.com/full/370976.jpg width="1000" hieght="50"/>
+<img src= https://wallpaperaccess.com/full/370976.jpg width="750" hieght="250"/>
 
 - 🌱 I’m currently learning **Java**
 
