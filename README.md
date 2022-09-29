@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
-<h3 align="center">A passionate frontend developer from South Dakota</h3>
+<h3 align="center">A passionate backend developer from South Dakota</h3>
 <img src= https://i.pinimg.com/originals/d7/ba/1c/d7ba1c73c817108fdb8e9532b4934337.jpg width="1000" hieght="250"/>
 
 - 🌱 I’m currently learning **Java**
