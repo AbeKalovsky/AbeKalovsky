@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Magic the Gathering or the NFL**
+- 💬 Ask me about **Magic the Gathering, Studio Ghibli or the NFL**
 
 - 📫 How to reach me **abrahamkalovsky@gmail.com**
 
