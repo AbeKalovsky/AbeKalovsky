@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">A passionate frontend developer from South Dakota</h3>
+<img src=  width="1000" hieght="250"/>
 
 - 🌱 I’m currently learning **Java**
 
