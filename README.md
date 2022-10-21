@@ -2,6 +2,8 @@
 <h3 align="center">A passionate backend developer from South Dakota</h3>
 <img src= https://i.pinimg.com/originals/d7/ba/1c/d7ba1c73c817108fdb8e9532b4934337.jpg width="1000" hieght="250"/>
 
+<h4 align="center">As the process of innovation in new technologies has expediated, the world has become far more connected. Getting to know someone that lives accross the world, which was once almost an impossibility, is now commonplace. In the end, the more I grow to understand these new technologies, the better connected I can become with other people and broaden my understanding of others. That connection and greater understanding of the world is why I want to be a Software Engineer.</h4>
+
 - 🌱 I’m currently learning **Java**
 
 - 🌱 I would like to learn **Python**
