@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from South Dakota</h3>
 <img src= https://i.pinimg.com/originals/d7/ba/1c/d7ba1c73c817108fdb8e9532b4934337.jpg width="1000" hieght="250"/>
 
-<h4 align="center">I'm a developer from South Dakota. I hope to move out to the NortWest part of the US and continue my growth as a Software Engineer. One of the things that has driven me to pursue this is how technology has allowed the world to become more connected. I'm an avid Magic the Gathering player and even just 10 years ago it was difficult to play with your friends that lived in another location. Technology today has now made it easy to play with someone even 1000 miles away. This is just one of the many ways technology has made the world more connected and I can't wait to be apart of it.</h4>
+<h4 align="center">I'm a developer from South Dakota. I hope to move out to the NorthWest part of the US and continue my growth as a Software Engineer. One of the things that has driven me to pursue this is how technology has allowed the world to become more connected. I'm an avid Magic the Gathering player and even just 10 years ago it was difficult to play with your friends that lived in another location. Technology today has now made it easy to play with someone even 1000 miles away. This is just one of the many ways technology has made the world more connected and I can't wait to be apart of it.</h4>
 
 - 🌱 I’m currently learning **Java**
 
